@@ -1,2 +1,3 @@
 # Learning-github
-This repo is the new start of learning github
+This repository is the new start of learning github
+Author :Pratik Paudel
